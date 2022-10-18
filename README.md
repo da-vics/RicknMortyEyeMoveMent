@@ -6,5 +6,5 @@ Inspired by @https://github.com/codediodeio web version using javascript
 
 <h3>Demo</h3>
 <div align="middle">
-<img src="ProjectImages/RicknMorty" width=50%> </img>
+<img src="ProjectImages/RicknMorty.gif" width=50%> </img>
 </div>
